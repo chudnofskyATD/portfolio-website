@@ -51,7 +51,7 @@
 							<h2>Fancy Form</h2>
 							<p>A stylish form to submit personal information using CSS3</p>
 							<ul class="actions stacked">
-								<li><a href="https://github.com/chudnofskyATD/fancyForm" class="button">Inspect Code</a></li>
+								<li><a href="#" class="button">Inspect Code</a></li>
 							</ul>
 						</div>
 						<div class="image">
